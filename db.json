@@ -1,0 +1,715 @@
+{
+    "burgers": [
+        {
+            "id": 0,
+            "name": "Big Mac",
+            "restaurant": "McDonald's",
+            "web": "https://www.mcdonalds.com/us/en-us.html",
+            "calories": "550 Cal.",
+            "ingredients": [
+                "Big Mac Bun",
+                "Beef Patty",
+                "Shredded Lettuce",
+                "Big Mac Sauce",
+                "Pasteurized Process American Cheese",
+                "Pickle Slices",
+                "Onions"
+            ]
+        },
+        {
+            "id": 1,
+            "name": "Quarter Pounder with Cheese",
+            "restaurant": "McDonald's",
+            "web": "https://www.mcdonalds.com/us/en-us.html",
+            "calories": "520 Cal.",
+            "ingredients": [
+                "Quarter Pound Beef Patty",
+                "Quarter Pound Bun",
+                "Pasteurized Process American Cheese",
+                "Ketchup",              
+                "Pickle Slices",
+                "Onions",
+                "Mustard"
+            ]
+        },
+        {
+            "id": 2,
+            "name": "Double Quarter Pounder with Cheese",
+            "restaurant": "McDonald's",
+            "web": "https://www.mcdonalds.com/us/en-us.html",
+            "calories": "740 Cal.",
+            "ingredients": [
+                "Quarter Pound Beef Patty",
+                "Quarter Pound Bun",
+                "Pasteurized Process American Cheese",
+                "Ketchup",              
+                "Pickle Slices",
+                "Onions",
+                "Mustard"
+            ]
+        },
+        {
+            "id": 3,
+            "name": "Double Quarter Pounder with Cheese Deluxe",
+            "restaurant": "McDonald's",
+            "web": "https://www.mcdonalds.com/us/en-us.html",
+            "calories": "630 Cal.",
+            "ingredients": [
+                "Quarter Pound Beef Patty",
+                "Quarter Pound Bun",
+                "Pasteurized Process American Cheese",
+                "Roma Tomato",
+                "Ketchup",
+                "Shredded Lettuce",
+                "Mayonnaise",              
+                "Pickle Slices",
+                "Onions",
+                "Mustard"
+            ]
+        },
+        {
+            "id": 4,
+            "name": "McDouble",
+            "restaurant": "McDonald's",
+            "web": "https://www.mcdonalds.com/us/en-us.html",
+            "calories": "400 Cal.",
+            "ingredients": [
+                "Beef Patty",
+                "Regular Bun",
+                "Pasteurized Process American Cheese",
+                "Pickle Slices",
+                "Ketchup",
+                "Onions",
+                "Mustard" 
+            ]
+        },
+        {
+            "id": 5,
+            "name": "Quarter Pounder with Cheese Bacon",
+            "restaurant": "McDonald's",
+            "web": "https://www.mcdonalds.com/us/en-us.html",
+            "calories": "630 Cal.",
+            "ingredients": [
+                "Quarter Pound Beef Patty",
+                "Quarter Pound Bun",
+                "Pasteurized Process American Cheese",
+                "Thick Cut Applewood Smoked Bacon",
+                "Ketchup",              
+                "Pickle Slices",
+                "Onions"
+            ]
+        },
+        {
+            "id": 6,
+            "name": "Cheeseburger",
+            "restaurant": "McDonald's",
+            "web": "https://www.mcdonalds.com/us/en-us.html",
+            "calories": "300 Cal.",
+            "ingredients": [
+                "Regular Bun",
+                "Beef Patty",
+                "Pasteurized Process American Cheese",
+                "Ketchup",
+                "Pickle Slices",
+                "Onions",
+                "Mustard" 
+            ]
+        },
+        {
+            "id": 7,
+            "name": "Double Cheeseburger",
+            "restaurant": "McDonald's",
+            "web": "https://www.mcdonalds.com/us/en-us.html",
+            "calories": "450 Cal.",
+            "ingredients": [
+                "Beef Patty",
+                "Regular Bun",
+                "Pasteurized Process American Cheese",
+                "Pickle Slices",
+                "Ketchup",
+                "Onions",
+                "Mustard" 
+            ]
+        },
+        {
+            "id": 8,
+            "name": "Hamburger",
+            "restaurant": "McDonald's",
+            "web": "https://www.mcdonalds.com/us/en-us.html",
+            "calories": "250 Cal.",
+            "ingredients": [
+                "Regular Bun",
+                "Beef Patty",
+                "Ketchup",
+                "Pickle Slices",
+                "Onions",
+                "Mustard" 
+            ]
+        },
+        {
+            "id": 9,
+            "name": "The Hamburdog",
+            "restaurant": "Mooyah",
+            "web": "https://www.mooyah.com/",
+            "calories": "1125 Cal.",
+            "ingredients": [
+                "Angus Beef",
+                "All-Beef Hot Dog",
+                "Cheddar Cheese",
+                "Bacon",
+                "Jalapeños",
+                "Fried Onion Strings",
+                "Ketchup",
+                "Non-GMO Potato Bun"
+            ]
+        },
+        {
+            "id": 10,
+            "name": "The Indulgent BBQ",
+            "restaurant": "Mooyah",
+            "web": "https://www.mooyah.com/",
+            "calories": "1265 Cal.",
+            "ingredients": [
+                "2 Angus Beef Patties",
+                "Pepper Jack Cheese",
+                "Applewood Smoked Bacon",
+                "Fried Onion Strings",
+                "BBQ Sauce",
+                "Real Mayo",
+                "Non-GMO Potato Bun"
+            ]
+        },
+        {
+            "id": 11,
+            "name": "The A-Wonderful",
+            "restaurant": "Mooyah",
+            "web": "https://www.mooyah.com/",
+            "calories": "730 Cal.",
+            "ingredients": [
+                "2 Angus Beef Patties",
+                "American Cheese",
+                "Applewood Smoked Bacon",
+                "Grilled Onions",
+                "Non-GMO Potato Bun"
+            ]
+        },
+        {
+            "id": 12,
+            "name": "The Well D'Onion",
+            "restaurant": "Mooyah",
+            "web": "https://www.mooyah.com/",
+            "calories": "820 Cal.",
+            "ingredients": [
+                "Angus Beef",
+                "Cheddar Cheese", 
+                "Onions", 
+                "Grilled Onions", 
+                "Fried Onion Strings", 
+                "Lettuce", 
+                "Spicy Ranch", 
+                "Non-GMO Potato Bun"
+            ]
+        },
+        {
+            "id": 13,
+            "name": "The Ranch Hand",
+            "restaurant": "Mooyah",
+            "web": "https://www.mooyah.com/",
+            "calories": "705 Cal.",
+            "ingredients": [
+                "Angus Beef",
+                "Bacon",
+                "Tomato",
+                "Ranch", 
+                "Non-GMO Potato Bun"
+            ]
+        },
+        {
+            "id": 14,
+            "name": "The Tur-Cali Club",
+            "restaurant": "Mooyah",
+            "web": "https://www.mooyah.com/",
+            "calories": "680 Cal.",
+            "ingredients": [
+                "All Natural Jennie-O Turkey",
+                "Fresh Avocado",
+                "Applewood Smoked Bacon",
+                "Lettuce",
+                "Tomato",
+                "Spicy Ranch", 
+                "Non-GMO Multigrain Bun"
+            ]
+        },
+        {
+            "id": 15,
+            "name": "The Lean Green",
+            "restaurant": "Mooyah",
+            "web": "https://www.mooyah.com/",
+            "calories": "410 Cal.",
+            "ingredients": [
+                "All Natural Jennie-O Turkey Iceburger",
+                "Swiss Cheese",
+                "Fresh Avocado",
+                "BBQ Sauce"
+            ]
+        },
+        {
+            "id": 16,
+            "name": "The Wing It On",
+            "restaurant": "Mooyah",
+            "web": "https://www.mooyah.com/",
+            "calories": "850 Cal.",
+            "ingredients": [
+                "All Natural Jennie-O Turkey",
+                "Frank's RedHot Buffalo Sauce",
+                "Ranch",
+                "Crumbled Blue Cheese",
+                "Pickles",
+                "Tomato",
+                "Non-GMO Potato Bun"
+            ]
+        },
+        {
+            "id": 17,
+            "name": "The Meatless Beast",
+            "restaurant": "Mooyah",
+            "web": "https://www.mooyah.com/",
+            "calories": "915 Cal.",
+            "ingredients": [
+                "Dr. Praeger's Black Bean",
+                "Cheddar Cheese",
+                "Pepper Jack Cheese",
+                "Fried Onion Strings",
+                "Lettuce",
+                "Tomato",
+                "Ranch",
+                "MOOYAH Sauce",
+                "Non-GMO Potato Bun"
+            ]
+        },
+        {
+            "id": 18,
+            "name": "The Farmer's Favorite",
+            "restaurant": "Mooyah",
+            "web": "https://www.mooyah.com/",
+            "calories": "370 Cal.",
+            "ingredients": [
+                "Dr. Praeger's Black Bean Iceburger", 
+                "Swiss Cheese", 
+                "Fresh Avocado", 
+                "Tomato", 
+                "Spicy Ranch"
+            ]
+        },
+        {
+            "id": 19,
+            "name": "Smoked Bacon Brisket Burger",
+            "restaurant": "Smash burger",
+            "web": "https://smashburger.com/",
+            "calories": "950 Cal.",
+            "ingredients": [
+                "Angus Beef", 
+                "Smoked Aged Cheddar Cheese", 
+                "Brisket", 
+                "Applewood Smoked Bacon", 
+                "Pickles", 
+                "BBQ Sauce", 
+                "Toasted Brioche Bun"
+            ]
+        },
+        {
+            "id": 20,
+            "name": "Classic Smash Burger",
+            "restaurant": "Smash burger",
+            "web": "https://smashburger.com/",
+            "calories": "640 Cal.",
+            "ingredients": [
+                "Angus Beef", 
+                "American Cheese", 
+                "Lettuce",
+                "Tomatoes",
+                "Red Onions",
+                "Pickles",
+                "Smash Sauce",
+                "Ketchup", 
+                "Toasted Bun"
+            ]
+        },
+        {
+            "id": 21,
+            "name": "Bacon Smash Burger",
+            "restaurant": "Smash burger",
+            "web": "https://smashburger.com/",
+            "calories": "690 Cal.",
+            "ingredients": [
+                "Angus Beef", 
+                "American Cheese",
+                "Applewood Smoked Bacon", 
+                "Lettuce",
+                "Tomatoes",
+                "Mayo", 
+                "Toasted Bun"
+            ]
+        },
+        {
+            "id": 22,
+            "name": "Avocado Bacon Club Burger",
+            "restaurant": "Smash burger",
+            "web": "https://smashburger.com/",
+            "calories": "670 Cal.",
+            "ingredients": [
+                "Angus Beef", 
+                "Sliced Avocado",
+                "Applewood Smoked Bacon", 
+                "Lettuce",
+                "Tomatoes",
+                "Ranch",
+                "Mayo", 
+                "Toasted Multi-grain Bun"
+            ]
+        },
+        {
+            "id": 23,
+            "name": "Spicy Baja with Guac Burger",
+            "restaurant": "Smash burger",
+            "web": "https://smashburger.com/",
+            "calories": "670 Cal.",
+            "ingredients": [
+                "Angus Beef", 
+                "Pepper Jack Cheese",
+                "Jalapeños",
+                "Guacamole", 
+                "Lettuce",
+                "Tomatoes",
+                "Red Onions",
+                "Chipotle Mayo", 
+                "Toasted Spicy Chipotle Bun"
+            ]
+        },
+        {
+            "id": 24,
+            "name": "BBQ Bacon Cheddar Burger",
+            "restaurant": "Smash burger",
+            "web": "https://smashburger.com/",
+            "calories": "750 Cal.",
+            "ingredients": [
+                "Angus Beef", 
+                "Aged Cheddar Cheese",
+                "Applewood Smoked Bacon",
+                "Haystack Onions",
+                "BBQ Sauce",
+                "Toasted Bun"
+            ]
+        },
+        {
+            "id": 25,
+            "name": "Truffle Mushroom Swiss Burger",
+            "restaurant": "Smash burger",
+            "web": "https://smashburger.com/",
+            "calories": "680 Cal.",
+            "ingredients": [
+                "Angus Beef", 
+                "Aged Swiss Cheese",
+                "Sautéed Crimini Mushrooms",
+                "Truffle Mayo",
+                "Toasted Bun"
+            ]
+        },
+        {
+            "id": 26,
+            "name": "Single Steakburger with Cheese",
+            "restaurant": "Freddy's",
+            "web": "https://freddysusa.com/",
+            "calories": "450 Cal.",
+            "ingredients": [
+                "Steakburger Patty", 
+                "Cheese",
+                "Mustard",
+                "Onion",
+                "Pickles",
+                "Toasted Bun"
+            ]
+        },
+        {
+            "id": 27,
+            "name": "Freddy's Original Double with Cheese",
+            "restaurant": "Freddy's",
+            "web": "https://freddysusa.com/",
+            "calories": "720 Cal.",
+            "ingredients": [
+                "Two Steakburger Patties", 
+                "Cheese",
+                "Mustard",
+                "Onion",
+                "Pickles",
+                "Toasted Bun"
+            ]
+        },
+        {
+            "id": 28,
+            "name": "Triple Steakburger with Cheese",
+            "restaurant": "Freddy's",
+            "web": "https://freddysusa.com/",
+            "calories": "990 Cal.",
+            "ingredients": [
+                "Three Steakburger Patties", 
+                "Cheese",
+                "Mustard",
+                "Onion",
+                "Pickles",
+                "Toasted Bun"
+            ]
+        },
+        {
+            "id": 29,
+            "name": "Single Steakburger California Style",
+            "restaurant": "Freddy's",
+            "web": "https://freddysusa.com/",
+            "calories": "490 Cal.",
+            "ingredients": [
+                "Steakburger Patty", 
+                "Cheese",
+                "Full Slice of Onion",
+                "Thousand Island", 
+                "Lettuce",
+                "Tomato",
+                "Toasted Bun"
+            ]
+        },
+        {
+            "id": 30,
+            "name": "Double Steakburger California Style",
+            "restaurant": "Freddy's",
+            "web": "https://freddysusa.com/",
+            "calories": "760 Cal.",
+            "ingredients": [
+                "Two Steakburger Patties", 
+                "Cheese",
+                "Full Slice of Onion",
+                "Thousand Island", 
+                "Lettuce",
+                "Tomato",
+                "Toasted Bun"
+            ]
+        },
+        {
+            "id": 31,
+            "name": "Triple Steakburger California Style",
+            "restaurant": "Freddy's",
+            "web": "https://freddysusa.com/",
+            "calories": "1030 Cal.",
+            "ingredients": [
+                "Three Steakburger Patties", 
+                "Cheese",
+                "Full Slice of Onion",
+                "Thousand Island", 
+                "Lettuce",
+                "Tomato",
+                "Toasted Bun"
+            ]
+        },
+        {
+            "id": 32,
+            "name": "Single Jalapeno Pepper Jack Steakburger",
+            "restaurant": "Freddy's",
+            "web": "https://freddysusa.com/",
+            "calories": "500 Cal.",
+            "ingredients": [
+                "One Sizzling Steakburger Patty", 
+                "Pepper Jack Cheese",
+                "Sautéed Jalapeños",
+                "Extra Spicy Jalapeño Fry Sauce",
+                "Toasted Bun"
+            ]
+        },
+        {
+            "id": 33,
+            "name": "Double Jalapeno Pepper Jack Steakburger",
+            "restaurant": "Freddy's",
+            "web": "https://freddysusa.com/",
+            "calories": "780 Cal.",
+            "ingredients": [
+                "Two Sizzling Steakburger Patties", 
+                "Pepper Jack Cheese",
+                "Sautéed Jalapeños",
+                "Extra Spicy Jalapeño Fry Sauce",
+                "Toasted Bun"
+            ]
+        },
+        {
+            "id": 34,
+            "name": "Triple Jalapeno Pepper Jack Steakburger",
+            "restaurant": "Freddy's",
+            "web": "https://freddysusa.com/",
+            "calories": "1070 Cal.",
+            "ingredients": [
+                "Three Sizzling Steakburger Patties", 
+                "Pepper Jack Cheese",
+                "Sautéed Jalapeños",
+                "Extra Spicy Jalapeño Fry Sauce",
+                "Toasted Bun"
+            ]
+        },
+        {
+            "id": 35,
+            "name": "Veggie Burger",
+            "restaurant": "Freddy's",
+            "web": "https://freddysusa.com/",
+            "calories": "440 Cal.",
+            "ingredients": [
+                "Black Bean Burger",
+                "Chesse",
+                "Full Slice of Onion",
+                "Thousand Island",
+                "Lettuce",
+                "Tomato",
+                "Toasted Bun"
+            ]
+        },
+        {
+            "id": 36,
+            "name": "Bacon & Cheese Double Steakburger",
+            "restaurant": "Freddy's",
+            "web": "https://freddysusa.com/",
+            "calories": "790 Cal.",
+            "ingredients": [
+                "Two Steakburger Patties",
+                "Chesse",
+                "Mustard",
+                "Onion",
+                "Pickle",
+                "Bacon",
+                "Toasted Bun"
+            ]
+        },
+        {
+            "id": 37,
+            "name": "Loaded A1 Steakhouse Burger",
+            "restaurant": "Dairy Queen",
+            "web": "https://www.dairyqueen.com/en-us/",
+            "calories": "850 Cal.",
+            "ingredients": [
+                "Two Beef Patties",
+                "Thick & Hearty Sauce",
+                "Creamy Peppercorn Sauce",
+                "Thick-cut Applewood Smoked Bacon",
+                "Melted American Cheese",
+                "Crunchy Onion Rings",
+                "Toasted Bun"
+            ]
+        },
+        {
+            "id": 38,
+            "name": "Loaded A1 Steakhouse Burger",
+            "restaurant": "Dairy Queen",
+            "web": "https://www.dairyqueen.com/en-us/",
+            "calories": "1070 Cal.",
+            "ingredients": [
+                "Three Beef Patties",
+                "Thick & Hearty Sauce",
+                "Creamy Peppercorn Sauce",
+                "Thick-cut Applewood Smoked Bacon",
+                "Melted American Cheese",
+                "Crunchy Onion Rings",
+                "Toasted Bun"
+            ]
+        },
+        {
+            "id": 39,
+            "name": "Bacon Cheese Grillburger",
+            "restaurant": "Dairy Queen",
+            "web": "https://www.dairyqueen.com/en-us/",
+            "calories": "630 Cal.",
+            "ingredients": [
+                "One ¼ lb. Beef Burger Patty",
+                "Melted Cheese",
+                "Thick-cut Applewood Smoked Bacon",
+                "Thick-cut Tomato",
+                "Crisp Chopped Lettuce",
+                "Pickles",
+                "Onions",
+                "Ketchup",
+                "Mayo",
+                "Toasted Bun"
+            ]
+        },
+        {
+            "id": 40,
+            "name": "Flamethrower Grillburger",
+            "restaurant": "Dairy Queen",
+            "web": "https://www.dairyqueen.com/en-us/",
+            "calories": "720 Cal.",
+            "ingredients": [
+                "One ¼ lb. Beef Burger Patty",
+                "FlameThrower Sauce",
+                "Melted Pepper Jack",
+                "Jalapeno Bacon",
+                "Thick-cut Tomato",
+                "Crisp Chopped Lettuce",
+                "Toasted Bun"
+            ]
+        },
+        {
+            "id": 41,
+            "name": "Cheese Grillburger",
+            "restaurant": "Dairy Queen",
+            "web": "https://www.dairyqueen.com/en-us/",
+            "calories": "540 Cal.",
+            "ingredients": [
+                "One ¼ lb. Beef Burger Patty",
+                "Melted Cheese",
+                "Thick-cut Tomato",
+                "Crisp Chopped Lettuce",
+                "Pickles",
+                "Onions",
+                "Ketchup",
+                "Mayo",
+                "Toasted Bun"
+            ]
+        },
+        {
+            "id": 42,
+            "name": "1/3 lb. Double with Cheese Burger",
+            "restaurant": "Dairy Queen",
+            "web": "https://www.dairyqueen.com/en-us/",
+            "calories": "560 Cal.",
+            "ingredients": [
+                "Two 1/3 lb. Beef Patties",
+                "Melted Cheese",
+                "Pickles",
+                "Ketchup",
+                "Mustard",
+                "Toasted Bun"
+            ]
+        },
+        {
+            "id": 43,
+            "name": "Cheeseburger",
+            "restaurant": "Dairy Queen",
+            "web": "https://www.dairyqueen.com/en-us/",
+            "calories": "400 Cal.",
+            "ingredients": [
+                "One Beef Patty",
+                "Melted Cheese",
+                "Pickles",
+                "Ketchup",
+                "Mustard",
+                "Toasted Bun"
+            ]
+        },
+        {
+            "id": 44,
+            "name": "Hamburger",
+            "restaurant": "Dairy Queen",
+            "web": "https://www.dairyqueen.com/en-us/",
+            "calories": "350 Cal.",
+            "ingredients": [
+                "One Beef Patty",
+                "Pickles",
+                "Ketchup",
+                "Mustard",
+                "Toasted Bun"
+            ]
+        }
+    ]
+}
